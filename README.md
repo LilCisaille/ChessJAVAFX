@@ -24,4 +24,4 @@ This is a simple implementation of a chess game using JavaFX. The project includ
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/chess-game.git
+   git clone https://github.com/LilCisaille/ChessJAVAFX.git
