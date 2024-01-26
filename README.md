@@ -1,10 +1,10 @@
-# Chess Game in JavaFX
+# Chess Game in JavaFX ♔♕
 
-## Overview
+## Overview ♚♛
 
 This is a simple implementation of a chess game using JavaFX. The project includes a graphical user interface for playing chess, with features such as piece movement, capture, and a replay option.
 
-## Features
+## Features ♖♜
 
 - Classic chess gameplay
 - Graphical user interface built with JavaFX
@@ -12,14 +12,14 @@ This is a simple implementation of a chess game using JavaFX. The project includ
 - Capture and kill opponent pieces
 - Replay option to restart the game
 
-## Getting Started
+## Getting Started ♗♝
 
-### Prerequisites
+### Prerequisites ♞♘
 
 - Java Development Kit (JDK) 8 or later
 - JavaFX installed (included in JDK until Java 10, separate download for Java 11 and later)
 
-### Installation
+### Installation ♟︎♙
 
 1. Clone the repository:
 
